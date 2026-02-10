@@ -54,10 +54,10 @@ J’aime apprendre, collaborer et transformer des idées en projets concrets.
 
 ## 🎓 Parcours
 
-- **Développeur Web Fullstack – Le Wagon (2024–2025)**  
-- **Professeur des écoles – Éducation nationale (2008–2024)**  
-- **Ingénieur en informatique industrielle – MBDA (2004–2006)**  
-- **Maîtrise GMP – IUT Nancy-Brabois**
+**Développeur Web Fullstack – Le Wagon (2024–2025)**  
+**Professeur des écoles – Éducation nationale (2008–2024)**  
+**Ingénieur en informatique industrielle – MBDA (2004–2006)**  
+**Maîtrise GMP – IUT Nancy-Brabois**
 
 ---
 
