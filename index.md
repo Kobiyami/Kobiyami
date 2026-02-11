@@ -11,7 +11,7 @@ J’aime apprendre vite, collaborer intelligemment et transformer des idées en 
 ## 🔗 Accès rapide
 
 - [📄 Mon CV](https://kobiyami.github.io/Kobiyami/CV.pdf)  
-- [💼 LinkedIn](https://www.linkedin.com/in/fournier-guillaume-884451328/)  
+- [💼 LinkedIn](https://www.linkedin.com/in/guillaume-fournier-884451328/)  
 - [📬 Me contacter](mailto:fournierg01@gmail.com)
 
 ---
