@@ -1,5 +1,3 @@
-<div align="center">
-
 <br>
 
 # 🌐 **Guillaume Fournier**
@@ -26,5 +24,3 @@ J’aime apprendre vite, collaborer intelligemment et transformer des idées en 
 ---
 
 <br><br>
-
-</div>
